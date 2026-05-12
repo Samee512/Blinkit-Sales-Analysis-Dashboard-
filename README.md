@@ -152,15 +152,18 @@ Insights:
 Supermarket Type 1 contributes the highest total sales
 Grocery stores have strong item visibility performance
 📈 Business Impact & Insights
-✅ Sales Optimization
+Sales Optimization
 Businesses can identify top-performing outlets and product categories to improve revenue generation.
-✅ Inventory Planning
+Inventory Planning
 Understanding category-wise demand helps optimize inventory management and reduce stock issues.
-✅ Location Strategy
+Location Strategy
 Tier-wise outlet analysis supports better expansion and regional investment planning.
-✅ Customer Satisfaction Monitoring
+Customer Satisfaction Monitoring
 Average ratings help evaluate customer experience and service quality.
-✅ Data-Driven Decision Making
+Data-Driven Decision Making
 The dashboard transforms raw retail data into meaningful insights for faster strategic decisions.
+Screenshots / Demos
+![Dashboard Preview].()
+
 
 
