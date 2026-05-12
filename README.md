@@ -160,5 +160,5 @@ Transforms complex retail data into actionable insights through interactive visu
 
 Dashboard Preview
 Main Dashboard
-![Blinkit Sales Dashboard](images/blinkit-dashboard.png)
+![Blinkit Sales Dashboard]([images/blinkit-dashboard.png](https://github.com/Samee512/Blinkit-Sales-Analysis-Dashboard-/blob/main/Blinkit%20sales%20Dashboard.png))
 
